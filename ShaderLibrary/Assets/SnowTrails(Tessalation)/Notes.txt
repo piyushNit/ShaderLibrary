@@ -1,0 +1,13 @@
+This is a StandardSurface shader, so only work with UnityBuilt-in pipeline.
+In order to work with other render pipeline, we need to change it to HLSL shader.
+HLSL shader can also work with URP, also there is shader graph support for URP.
+
+
+Reference yourtube link:
+https://www.youtube.com/watch?v=_NfxMMzYwgo&list=PL3POsQzaCw53KM74XVRXv2xyesLjngfbG&index=2
+
+Unity Tessalation:
+https://docs.unity3d.com/Manual/SL-SurfaceShaderTessellation.html
+
+Cat like coding:
+https://catlikecoding.com/unity/tutorials/advanced-rendering/tessellation/
